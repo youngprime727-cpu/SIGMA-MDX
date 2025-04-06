@@ -163,11 +163,11 @@ cmd({
       react: { text: "⬆️", key: m.key }
     });
 
-    const caption = `╭══ 〔 *ᴘʀɪɴᴄᴇ ᴍᴅxɪ* 〕══❐\n`
+    const caption = `╭══ 〔 *SIGMA MDX* 〕══❐\n`
       + `┃▢ *ғɪʟᴇ ɴᴀᴍᴇ:* ${file_name}\n`
       + `┃▢ *ғɪʟᴇ ᴛʏᴘᴇ:* ${mime_type}\n`
       + `╰═════════════❐\n\n`
-      + `> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ`;
+      + `> ᴘᴏᴡᴇʀᴇᴅ ʙʏ MUZAN SIGMA`;
 
     await conn.sendMessage(from, {
       document: { url: dl_link },
@@ -213,14 +213,14 @@ cmd({
     const app = data.datalist.list[0];
     const appSize = (app.size / 1048576).toFixed(2); // Convert bytes to MB
 
-    const caption = `╭══ 〔 *ᴘʀɪɴᴄᴇ ᴍᴅxɪ ᴀᴘᴋ* 〕══❐
+    const caption = `╭══ 〔 *SIGMA MDX ᴀᴘᴋ* 〕══❐
 ┃ 🏷️ *ɴᴀᴍᴇ:* ${app.name}
 ┃ 📦 *sɪᴢᴇ:* ${appSize} MB
 ┃ 📮 *ᴘᴀᴄᴋᴀɢᴇ:* ${app.package}
 ┃ 📅 *ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ:* ${app.updated}
 ┃ 👨🏻‍💻 *ᴅᴇᴠᴇʟᴏᴘᴇʀ:* ${app.developer.name}
 ╰═══════════════❐
-> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ`;
+> ᴘᴏᴡᴇʀᴇᴅ ʙʏ MUZAN SIGMA`;
 
     await conn.sendMessage(from, { react: { text: "⬆️", key: m.key } });
 
@@ -271,7 +271,7 @@ cmd({
         document: { url: downloadUrl },
         mimetype: response.data.result.mimetype,
         fileName: response.data.result.fileName,
-        caption: "> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ "
+        caption: "> ᴘᴏᴡᴇʀᴇᴅ ʙʏ MUZAN SIGMA "
       }, { quoted: m });
 
       await conn.sendMessage(from, { react: { text: "✅", key: m.key } });
