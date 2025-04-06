@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: sigma-md-bot
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    autoDeploy: true
+    envVars:
+      - key: SESSION_ID
+        value: "your-session-id"
+      - key: MODE
+        value: "private"
+      - key: AUTO_READ_STATUS
+        value: "true"
+      - key: AUTO_REPLY
+        value: "false"
+      - key: ALIVE_IMG
+        value: "https://i.ibb.co/mrj4XkHF/subzero-bot.jpg"
+      - key: MENU_IMG
+        value: "https://i.ibb.co/mrj4XkHF/subzero-bot.jpg"
+      - key: PREFIX
+        value: "."
+      - key: OMDB_API_KEY
+        value: "your-omdb-api-key"
