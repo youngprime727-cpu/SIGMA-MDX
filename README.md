@@ -1,12 +1,12 @@
 # SIGMA-MD WhatsApp Bot 🌝💚
 
-![Bot Image](https://files.catbox.moe/kzfne8.jpeg)
+![Bot Image](https://i.ibb.co/pjt3Ft0C/subzero-bot.jpg)
 
-**Simple and Best WhatsApp Bot Created by [PRINCE MAYEL](https://github.com/mayelprince)**
+**Simple and Best WhatsApp Bot Created by [MUZAN SIGMA](https://github.com/muzantech)**
 
 ## 🔗 Repository
 
-[![Fork the Repo](https://img.shields.io/badge/Fork%20Repo-blue?style=for-the-badge)](https://github.com/mayelprince/PRINCE-MDXI/fork)
+[![Fork the Repo](https://img.shields.io/badge/Fork%20Repo-blue?style=for-the-badge)](https://github.com/muzantech/SIGMA-MDX/fork)
 
 ## 🔑 Get Session ID
 
@@ -22,13 +22,13 @@ Generate your session ID for deployment:
 
 ## 🚀 Deployment Options
 
-- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fmayelprince%2FPRINCE-MDXI)  
+- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fmuzantech%2FSIGMA-MDX)  
   [Create a Heroku Account](https://signup.heroku.com/) if you don't have one.
   
   **📺 Heroku Deployment Tutorial:**  
   [Watch on YouTube](https://www.youtube.com/@princetech11)
 
-- [![Deploy on Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/mayelprince/PRINCE-MDXI.git)
+- [![Deploy on Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/muzantech/SIGMA-MDX.git)
   
   **📺 Render Deployment Tutorial:**  
   [Watch on YouTube](https://www.youtube.com/@princetech11)
