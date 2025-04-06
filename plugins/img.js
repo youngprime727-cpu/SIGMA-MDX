@@ -43,7 +43,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             await conn.sendMessage(from, {
                 image: buffer,
                 caption: `
- ${i + 1}> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ
+ ${i + 1}> ᴘᴏᴡᴇʀᴇᴅ ʙʏ MUZAN SIGMA 
 `
 }, { quoted: mek });
 }
