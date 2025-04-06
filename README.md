@@ -1,4 +1,4 @@
-# PRINCE-MDXI WhatsApp Bot 🌝💚
+# SIGMA-MD WhatsApp Bot 🌝💚
 
 ![Bot Image](https://files.catbox.moe/kzfne8.jpeg)
 
