@@ -12,7 +12,7 @@
 
 Generate your session ID for deployment:
 
-[![Get Pair Code](https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge)](https://princeweb.onrender.com)
+[![Get Pair Code](https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge)](https://session3-one.vercel.app/)
 
 ## ⚙️ Setup Guide
 
