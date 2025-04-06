@@ -18,7 +18,7 @@ cmd({
       return reply("❌ Failed to fetch a joke. Please try again.");
     }
 
-    const jokeMessage = `🤣 *Here's a random joke for you!* 🤣\n\n*${joke.setup}*\n\n${joke.punchline} 😆\n\n> *Created by prince*`;
+    const jokeMessage = `🤣 *Here's a random joke for you!* 🤣\n\n*${joke.setup}*\n\n${joke.punchline} 😆\n\n> *Created by muzan sigma*`;
 
     return reply(jokeMessage);
   } catch (error) {
@@ -166,7 +166,7 @@ cmd({
       return reply("❌ Failed to fetch a fun fact. Please try again.");
     }
 
-    const factMessage = `🧠 *Random Fun Fact* 🧠\n\n${fact}\n\nIsn't that interesting? 😄\n\n> *ᴘᴏᴡᴇʀᴇᴅ  ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ *`;
+    const factMessage = `🧠 *Random Fun Fact* 🧠\n\n${fact}\n\nIsn't that interesting? 😄\n\n> *ᴘᴏᴡᴇʀᴇᴅ  muzan sigma *`;
 
     return reply(factMessage);
   } catch (error) {
