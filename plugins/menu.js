@@ -1,34 +1,29 @@
-const {getContextInfo} = require('./new')
-const config = require('../config')
-const {cmd , commands} = require('../command')
-const os = require("os")
-const {runtime} = require('../lib/functions')
-const axios = require('axios')
+const { getContextInfo } = require('./new');
+const config = require('../config');
+const { cmd, commands } = require('../command');
+const os = require("os");
+const { runtime } = require('../lib/functions');
+const axios = require('axios');
 
 cmd({
-
     pattern: "menu",
-
     react: "📑",
-
     desc: "Get bot command list.",
-
     category: "main",
-
     use: '.menu',
-
     filename: __filename
-
-},
-
-async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
-
-try{
-let madeMenu = `*╭═〘〘 ${config.BOT_NAME} 〙〙═╮*
+}, async (conn, mek, m, {
+    from, l, quoted, body, isCmd, umarmd, args, q,
+    isGroup, sender, senderNumber, botNumber2, botNumber,
+    pushname, isMe, isOwner, groupMetadata, groupName,
+    participants, groupAdmins, isBotAdmins, isAdmins, reply
+}) => {
+    try {
+        let madeMenu = `*╭═〘〘 ${config.BOT_NAME} 〙〙═╮*
 ┃ ⏱ 𝙍𝙪𝙣𝙩𝙞𝙢𝙚 : ${runtime(process.uptime())}
 ┃ ⚙️ 𝙈𝙤𝙙𝙚 : *${config.MODE}*
 ┃ ❯ 𝙋𝙧𝙚𝙛𝙞𝙭 : *${config.PREFIX}*
-┃ 💾 𝙍𝙖𝙢 : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
+┃ 💾 𝙍𝙖𝙢 : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem() / 1024 / 1024)}MB
 ┃ 👑 𝘿𝙚𝙫 : MUZAN SIGMA
 ┃ 🧾 𝙑𝙚𝙧𝙨𝙞𝙤𝙣 : *1.0.0*
 *╰═════════════════════╯*
@@ -196,13 +191,17 @@ let madeMenu = `*╭═〘〘 ${config.BOT_NAME} 〙〙═╮*
 ┃ rank
 ┃ timezone
 ╰────────────────────╯
-> *MUZAN SIGMA 𝘿𝙀𝙑* `
+> *MUZAN SIGMA 𝘿𝙀𝙑*`;
 
-await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu,
-   contextInfo: getContextInfo(m.sender)
-, { quoted: mek });
-}catch(e){
-console.log(e)
-reply(`${e}`)
-}
-})
+        await conn.sendMessage(from, {
+            image: { url: config.ALIVE_IMG },
+            caption: madeMenu,
+            contextInfo: getContextInfo(m.sender),
+            quoted: mek
+        });
+
+    } catch (e) {
+        console.log(e);
+        reply(`${e}`);
+    }
+});
