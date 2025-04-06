@@ -26,16 +26,16 @@ try{
 
 let dec = `*👋 Hello ${pushname}*
 
-*👨‍💻𝗣𝗥𝗜𝗡𝗖𝗘 𝗠𝗗𝗫𝗜👨‍💻*
+*👨‍💻SIGMA 𝗠𝗗𝗫👨‍💻*
 
 > *𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢* 
 
-*⚡Owner name -: ᴘʀɪɴᴄᴇ*
-*⚡Number* -: https://t.me/faraday_11
+*⚡Owner name -: MUZAN SIGMA*
+*⚡Number* -: https://wa.me/32466304227
 
-⚡️◦ https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3
+⚡️◦ https://whatsapp.com/channel/0029Vb5bhTQ7YScyKgFj1C2b
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴍᴅxɪ*
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ SIGMA MDX*
 `;
 await conn.sendMessage(from,{image:{url:config.MENU_IMG},caption:dec},{quoted:mek});
 
@@ -58,14 +58,14 @@ try{
 
 let dec = `*📍ℝ𝔼ℙ𝕆-𝕃𝕀ℕ𝕂 ❤️‍🔥👇*
 
-👨‍💻◦https://github.com/MayelPrince/PRINCE-MDXI
+👨‍💻◦https://github.com/muzantech/SIGMA-MDX
 
 
 *📍ℙ𝕃𝔼𝔸𝕊𝔼 𝔽𝕆𝕃𝕃𝕆𝕎 𝕄𝕐 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃 ❤️‍🔥👇*
 
-👨‍💻◦ *https://whatsapp.com/channel/0029Vakd0RY35fLr1MUiwO3O*
+👨‍💻◦ *https://whatsapp.com/channel/0029Vb5bhTQ7YScyKgFj1C2b*
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴍᴅxɪ*
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ SIGMA MDX*
 `;
 await conn.sendMessage(from,{image:{url: config.MENU_IMG},caption:dec},{quoted:mek});
 
@@ -91,7 +91,7 @@ let status = `┌───────────────────
 ├ *Version:-* xɪ
 └───────────────────
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴍᴅxɪ*
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ SIGMA MDX*
 `;
 return reply(`${status}`)
   
