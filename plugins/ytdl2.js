@@ -30,7 +30,7 @@ cmd({
             return reply("Failed to fetch the video. Please try again later.");
         }
         
-        let ytmsg = `╔═══〔 *PRINCE MDXI ᪳* 〕═══❒
+        let ytmsg = `╔═══〔 *SIGMA MDX ᪳* 〕═══❒
 ║╭───────────────◆  
 ║│ *❍ ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
 ║╰───────────────◆
@@ -42,7 +42,7 @@ cmd({
 ║ ⿻ *ᴀᴜᴛʜᴏʀ:*  ${yts.author.name}
 ║ ⿻ *ʟɪɴᴋ:*  ${yts.url}
 ╚══════════════════❒
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ*`;
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ MUZAN SIGMA*`;
 
         // Send video details
         await conn.sendMessage(from, { image: { url: data.result.thumbnail || '' }, caption: ytmsg,
@@ -86,7 +86,7 @@ cmd({
             return reply("Failed to fetch the video. Please try again later.");
         }
         
-        let ytmsg = `╔═══〔 *PRINCE MDXI ᪳* 〕═══❒
+        let ytmsg = `╔═══〔 *SIGMA MDX ᪳* 〕═══❒
 ║╭───────────────◆  
 ║│ *❍ ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
 ║╰───────────────◆
@@ -98,7 +98,7 @@ cmd({
 ║ ⿻ *ᴀᴜᴛʜᴏʀ:*  ${yts.author.name}
 ║ ⿻ *ʟɪɴᴋ:*  ${yts.url}
 ╚══════════════════❒
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ*`;
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ MUZAN SIGMA*`;
 
         // Send video details
         await conn.sendMessage(from, { image: { url: data.result.thumbnail || '' }, caption: ytmsg, contextInfo: getContextInfo(m.sender) }, { quoted: mek });
@@ -147,7 +147,7 @@ const yt = await ytsearch(q);
         return reply("Failed to fetch the audio. Please try again later.");
     }
     
-    let ytmsg = `╔══〔 *PRINCE MDXI* 〕══❒
+    let ytmsg = `╔══〔 *SIGMA MDX* 〕══❒
 ║╭───────────────◆  
 ║│ *❍ ᴏᴡɴʟᴏᴀᴅᴇʀ*
 ║╰───────────────◆
@@ -159,7 +159,7 @@ const yt = await ytsearch(q);
 ║ ⿻ *ᴀᴜᴛʜᴏʀ:*  ${yts.author.name}
 ║ ⿻ *ʟɪɴᴋ:*  ${yts.url}
 ╚══════════════════❒
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ*`;
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ MUZAN SIGMA*`;
 
 
 
@@ -203,7 +203,7 @@ const yt = await ytsearch(q);
         return reply("Failed to fetch the audio. Please try again later.");
     }
     
-    let ytmsg = `╔═══〔 *PRINCE MDXI* 〕═══❒
+    let ytmsg = `╔═══〔 *SIGMA MDX* 〕═══❒
 ║╭───────────────◆  
 ║│ *❍ dᴏᴡɴʟᴏᴀᴅᴇʀ*
 ║╰───────────────◆
@@ -215,7 +215,7 @@ const yt = await ytsearch(q);
 ║ ⿻ *ᴀᴜᴛʜᴏʀ:*  ${yts.author.name}
 ║ ⿻ *ʟɪɴᴋ:*  ${yts.url}
 ╚══════════════════❒
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ*`;
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ MUZAN SIGMA*`;
 
 
 
