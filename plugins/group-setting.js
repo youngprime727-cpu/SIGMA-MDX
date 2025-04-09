@@ -549,7 +549,6 @@ cmd({
     }
 });
 			       
-
 cmd({
     pattern: "demoteall",
     desc: "Demote all group admins except the bot and the command user (Owner Only)",
@@ -574,4 +573,13 @@ cmd({
         return reply("✅ No admins to demote.");
       }
   
-      // Demote all filt
+      // Demote all filtered admins
+      await conn.groupParticipantsUpdate(from, admins, "demote");
+  
+      return reply("✅ All group admins have been demoted except the bot and you.");
+    } catch (error) {
+      console.error("Error in demoteall command:", error);
+      return reply(`❌ An error occurred: ${error.message}`);
+    }
+  });
+
