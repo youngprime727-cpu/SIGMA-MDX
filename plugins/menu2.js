@@ -3,7 +3,7 @@ const {getContextInfo} = require('./new')
 const config = require('../config')
 const {cmd , commands} = require('../command')
 cmd({
-    pattern: "menu2",
+    pattern: "menu",
     react: "📜",
     desc: "get cmd list",
     category: "main",
@@ -69,7 +69,7 @@ ${menu.search}
 ╔══✦『 𝐒𝐄𝐓𝐓𝐈𝐍𝐆𝐒 』✦═╗
 ${menu.settings}
 ╚═════════════════╝
-> ᴘᴏᴡᴇʀᴇᴅ ʙʏ MUZAN SIGMA 
+> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ 
 `
 
 

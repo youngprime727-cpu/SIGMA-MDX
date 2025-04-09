@@ -3,7 +3,7 @@ const { cmd } = require("../command");
 const moment = require("moment");
 
 let botStartTime = Date.now(); // Enregistrement de l'heure de démarrage du bot
-const ALIVE_IMG = "https://i.ibb.co/pjt3Ft0C/subzero-bot.jpg"; // replace with your url 
+const ALIVE_IMG = "https://raw.githubusercontent.com/Mayelprince/url/main/url/1264.jpg"; // replace with your url 
 
 cmd({
     pattern: "alive",
@@ -23,7 +23,7 @@ cmd({
         const runtimeHours = Math.floor(runtimeMilliseconds / (1000 * 60 * 60));
 
         const formattedInfo = `
-🌟 *MUZAN-V1 STATUS* 🌟
+🌟 *VIRALIX-V1 STATUS* 🌟
 Hi 🫵🏽 ${pushname}
 > 🕒 *Time*: ${currentTime}
 > 📅 *Date*: ${currentDate}

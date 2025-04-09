@@ -549,6 +549,7 @@ cmd({
     }
 });
 			       
+
 cmd({
     pattern: "demoteall",
     desc: "Demote all group admins except the bot and the command user (Owner Only)",
@@ -582,4 +583,3 @@ cmd({
       return reply(`❌ An error occurred: ${error.message}`);
     }
   });
-

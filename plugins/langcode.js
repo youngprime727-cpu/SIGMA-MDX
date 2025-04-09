@@ -64,7 +64,7 @@ cmd({
 ✅ *Use these codes for translation and other language functions!*`;
 
     // Image URL: Use your own custom image URL here
-    const imageUrl = "https://files.catbox.moe/hgg32i.jpg"; // Replace this URL with the link to your image
+    const imageUrl = "https://files.catbox.moe/ykdtkm.jpeg"; // Replace this URL with the link to your image
 
     // Sending the message with language list and image
     await bot.sendMessage(from, {
