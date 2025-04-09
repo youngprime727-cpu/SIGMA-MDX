@@ -5,7 +5,7 @@ const getContextInfo = (sender) => ({
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-        newsletterJid: '120363322606369079@newsletter',
+        newsletterJid: '120363415909557904@newsletter',
         newsletterName: 'SIGMA',
         serverMessageId: 999
     }
