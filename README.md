@@ -26,29 +26,17 @@ Generate your session ID for deployment:
   [Create a Heroku Account](https://signup.heroku.com/) if you don't have one.
   
   **📺 Heroku Deployment Tutorial:**  
-  [Watch on YouTube](https://www.youtube.com/@princetech11)
+  [Watch on YouTube](https://www.youtube.com/@muzansigma)
 
 - [![Deploy on Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/muzantech/SIGMA-MDX.git)
   
-  **📺 Render Deployment Tutorial:**  
-  [Watch on YouTube](https://www.youtube.com/@princetech11)
-
-- **Deploy on Talk Drove** (Coming Soon)  
-  
-  **📺 Talk Drove Deployment Tutorial:**  
-  [Watch on YouTube](https://www.youtube.com/@princetech11)
-
-- **Deploy on Panel** (Coming Soon)  
-  
-  **📺 Panel Deployment Tutorial:**  
-  [Watch on YouTube](https://www.youtube.com/@princetech11)
 
 ## 📢 Join Our WhatsApp Channel
 
 Stay updated by joining our official WhatsApp channel:
 
-[Join WhatsApp Channel](https://whatsapp.com/channel/0029Vakd0RY35fLr1MUiwO3O)
+[Join WhatsApp Channel](https://whatsapp.com/channel/0029Vb5bhTQ7YScyKgFj1C2b)
 
 ## 🙏 Thank You!
 
-**Developed by [PRINCE MAYEL](https://github.com/mayelprince)**
+**Developed by [MUZAN SIGMA](https://github.com/muzantech)**
