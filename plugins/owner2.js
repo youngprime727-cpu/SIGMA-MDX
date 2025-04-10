@@ -5,7 +5,7 @@ const { cmd } = require('../command');
 cmd({
     pattern: "owner",
     react: "👑", // Reaction emoji when the command is triggered
-    alias: ["prince"],
+    alias: ["𝙼𝚄𝚉𝙰𝙽 𝚂𝙸𝙶𝙼𝙰"],
     desc: "Get owner number",
     category: "main",
     filename: __filename
@@ -13,9 +13,9 @@ cmd({
 async (conn, mek, m, { from }) => {
     try {
         // Owner's contact info
-        const ownerNumber = '+23768000000'; // Replace this with the actual owner number
-        const ownerName = 'ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ'; // Replace this with the owner's name
-        const organization = 'ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ'; // Optional: replace with the owner's organization
+        const ownerNumber = '+237658985693'; // Replace this with the actual owner number
+        const ownerName = '𝙼𝚄𝚉𝙰𝙽 𝚂𝙸𝙶𝙼𝙰'; // Replace this with the owner's name
+        const organization = '𝙼𝚄𝚉𝙰𝙽 𝚂𝙸𝙶𝙼𝙰'; // Optional: replace with the owner's organization
 
         // Create a vCard (contact card) for the owner
         const vcard = 'BEGIN:VCARD\n' +
@@ -37,7 +37,7 @@ async (conn, mek, m, { from }) => {
         await conn.sendMessage(from, {
             text: `This is the owner's contact: ${ownerName}`,
             contextInfo: {
-                mentionedJid: [ownerNumber.replace('+237682690000') + '+237682690000@s.whatsapp.net'], // Mention the owner
+                mentionedJid: [ownerNumber.replace('+237658985693') + '+237658985693@s.whatsapp.net'], // Mention the owner
                 quotedMessageId: sentVCard.key.id // Reference the vCard message
             }
         }, { quoted: mek });
