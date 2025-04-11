@@ -30,6 +30,7 @@ Generate your session ID for deployment:
 
 - [![Deploy on Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/muzantech/SIGMA-MDX.git)
   
+ -**Deploy on Talk Drove**  
 
 ## 📢 Join Our WhatsApp Channel
 
