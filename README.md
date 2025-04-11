@@ -1,43 +1,193 @@
-# SIGMA-MD WhatsApp Bot 🌝💚
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=ALI%20MD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
-![Bot Image](https://i.ibb.co/pjt3Ft0C/subzero-bot.jpg)
 
-**Simple and Best WhatsApp Bot Created by [MUZAN SIGMA](https://github.com/muzantech)**
 
-## 🔗 Repository
+  <p align="center">
+<a href="https://github.com/muzantech/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
+<a href="https://github.com/muzantech/SIGMA-MDX/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/muzantech/SIGMA-MDX?color=blue&style=flat-square"></a>
+<a href="https://github.com/muzantech/SIGMA-MDX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/muzantech/SIGMA-MDX?color=blue&style=flat-square"></a>
+<a href="https://github.com/muzantech/SIGMA-MDX/"><img title="Size" src="https://img.shields.io/github/repo-size/muzantech/SIGMA-MDX?style=flat-square&color=green"></a>
+<a href="https://github.com/muzantech/SIGMA-MDX/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+</p>
 
-[![Fork the Repo](https://img.shields.io/badge/Fork%20Repo-blue?style=for-the-badge)](https://github.com/muzantech/SIGMA-MDX/fork)
+> **CURRENT BOT VERSION ➜ `3.0.0 ⚡`**
+---
 
-## 🔑 Get Session ID
+```
+DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
+```
+---
 
-Generate your session ID for deployment:
-
-[![Get Pair Code](https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge)](https://session3-one.vercel.app/)
-
-## ⚙️ Setup Guide
-
-1. **Fork and star the repository.**
-2. **Generate your session ID** and copy it.
-3. **Edit the `config.js` file** and paste the session ID.
-
-## 🚀 Deployment Options
-
-- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fmuzantech%2FSIGMA-MDX)  
-  [Create a Heroku Account](https://signup.heroku.com/) if you don't have one.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+SIGMA-MDX;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MUZAN+SIGMA" alt="Typing SVG" /></a>
+  </p>
   
-  **📺 Heroku Deployment Tutorial:**  
-  [Watch on YouTube](https://www.youtube.com/@muzansigma)
+--- 
 
-- [![Deploy on Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/muzantech/SIGMA-MDX.git)
+<a><img src='https://i.ibb.co/pjt3Ft0C/subzero-bot.jpg'/></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+***
+
+
+
+
+### 1. 𐃁FORK THIS REPOSITORY𐃁
+
+`FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
+
+  <a href="https://github.com/muzantech/SIGMA-MDX/fork"><img title="SIGMA-MDX" src="https://img.shields.io/badge/FORK-SIGMA%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
- **Deploy on Talk Drove**  
+### 2. 𐃁GET SESSION ID𐃁 
 
-## 📢 Join Our WhatsApp Channel
+`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:23769xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
 
-Stay updated by joining our official WhatsApp channel:
 
-[Join WhatsApp Channel](https://whatsapp.com/channel/0029Vb5bhTQ7YScyKgFj1C2b)
+> **1. PAIR CODE SESSION ID**
 
-## 🙏 Thank You!
+<a href='https://session3-one.vercel.app//' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
 
-**Developed by [MUZAN SIGMA](https://github.com/muzantech)**
+> **2. PAIR CODE SESSION ID**
+
+<a href='https://session3-one.vercel.app/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+
+
+---
+
+### <h2 align="">𐃁SIGMA-MDX DEPLOYMENT OPTIONS𐃁</h2>
+
+---
+
+### <h4 align="">1. HEROKU</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://tinyurl.com/2agqnfx5)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### <h4 align="">3. KOYEB</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+<p align="">
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=muzantech/SIGMA-MDX&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20SIGMA-MDX&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### <h4 align="">2. TALKDROVE FREE</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="">
+<a href='https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=51' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### <h4 align="">4. RAILWAY</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+<p align="">
+<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### <h4 align="">5. RENDER</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="">
+<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+  
+<b><strong><summary align="" style="color: Yello;">EASIEST METHOD 2</summary></strong></b>
+<p style="text-align: center; font-size: 1.2em;">
+ 
+
+## <h3 align=""> HOW TO DEPLOY ON TALKDROVE</h3>
+<h6 align-"center">
+*❄️ Deploy SIGMA-MDX On TALKDROVE For Free !*
+
+> `Steps to deploy`
+
+`Step 1`
+1. Go to https://host.talkdrove.com/auth/signup?ref=F1A9BD0B and create an account and verify your email too.
+
+`Step 2`
+1. Go to https://youtu.be/ydToeigZr34?feature=shared you watch the deployment video carefully 
+> CREDITS SIGMA MD🎐
+
+*ᴘᴏᴡᴇʀᴇᴅ ʙʏ MUZAN SIGMA*</h6>
+
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+### <h4 align="">7. REPLIT</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+<p align="">
+<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+## 👑 PROJECT OWNER 
+HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ALI࿐➺
+
+<p align="">
+<a href='https://wa.me/+237658985693?text=*ʜɪɪ+ᴀʟɪ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+SIGMA-MDX+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+## 🪀 WHATSAPP CHANNEL 
+STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
+
+[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb5bhTQ7YScyKgFj1C2b)
+
+## 🪀 WHATSAPP GROUP
+JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
+
+[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/DK64PL1Z6Jr2j7BzSC1CFI)
+
+ 
+
+
+***
+
+## <h2 align="left">⚠️ REMINDER </h2>
+<p style="text-align: center; font-size: 1.2em;">
+
+- **DISCLAIMER:** THIS BOT IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
+- MISUSING THE BOT MAY RESULT IN YOUR `WhatsApp` ACCOUNT BEING BANNED. NOTE THAT YOU CAN ONLY UNBAN YOUR ACCOUNT ONCE.
+- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING.
+
+---
+
+<h2 align="left">ℹ️ NOTICE</h2>
+<p style="text-align: center; font-size: 1.2em;">
+  NOT FOR SALE - IF ANY PLUGIN'S CODE IS OBFUSCATED, YOU DO NOT HAVE PERMISSION TO EDIT IT IN ANY FORM. PLEASE REMEMBER TO GIVE CREDIT IF YOU ARE USING OR RE-UPLOADING MY PLUGINS/FILES. WISHING YOU A WONDERFUL DAY AHEAD!</p>
+  
+---
+
+ <br>
+<h2 align="center"> ⚠️ DISCLAIMER ⚠️
+ </h2>
+ 
+ ---
+
+<h3 align="center"> DON'T COPY WITHOUT PERMISSION 
+</h3>
+
+<br>
+
+```
+THANK YOU , KERM, PRINCE & YOU SUPPORTER
+```
+-----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+------
