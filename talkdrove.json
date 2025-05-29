@@ -3,8 +3,8 @@
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴜᴢᴀɴ sɪɢᴍᴀ",
   "logo": "https://files.catbox.moe/iw9ar0.jpg",
   "keywords": ["bot"],
-  "documentation-link": "h",
-  "owner-verification": "p",
+  "documentation-link": "https://muzansspair1.onrender.com",
+  "owner-verification": "lespurgateursigma@gmail.com",
   
   "env": {
     "SESSION_ID": {
