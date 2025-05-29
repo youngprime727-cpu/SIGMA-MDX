@@ -1,10 +1,10 @@
 {
   "bot-name": "SIGMA-MDX",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝙼𝚄𝚉𝙰𝙽 𝚂𝙸𝙶𝙼𝙰",
-  "logo": "https://i.ibb.co/pjt3Ft0C/subzero-bot.jpg",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴜᴢᴀɴ sɪɢᴍᴀ",
+  "logo": "https://files.catbox.moe/iw9ar0.jpg",
   "keywords": ["bot"],
-  "documentation-link": "https://muzansspair23.onrender.com/",
-  "owner-verification": "lespurgateursigma@gmail.com",
+  "documentation-link": "h",
+  "owner-verification": "p",
   
   "env": {
     "SESSION_ID": {
@@ -17,8 +17,18 @@
       "value": ".",
       "required": true
     },
+"OWNER_NAME": {
+      "description": "Type Bot Owner Name( your name).",
+      "required": false,
+      "value": "ᴍᴜᴢᴀɴ sɪɢᴍᴀ"
+}, 
+    "OWNER_NUMBER": {
+      "description": "put the owner number for bot(you number eg 32466304227).",
+      "required": false,
+      "value": "32466304227"
+    }, 
     "MODE": {
-      "description": "Bot mode can be public, private, inbox, or groups (in lowercase) (e.g., public)",
+      "description": "Bot mode can be public or private,  (in lowercase) (e.g., public)",
       "value": "private",
       "required": true
     }
