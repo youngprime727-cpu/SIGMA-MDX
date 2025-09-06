@@ -1,7 +1,7 @@
 
  {
   "MODE": "private",
-  "FAKE_TYPING": "false",
+  "FAKE_TYPING": "True",
   "ALWAYS_ONLINE": "false",
   "FAKE_RECORDING": "false",
   "AUTO_READ_STATUS": "false",
